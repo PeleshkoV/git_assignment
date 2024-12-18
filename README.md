@@ -1,4 +1,5 @@
 # Git Assignment - PeleshkoV
+Final!!!
 a. What is an _issue_?
 Issue is the problem/ question/ error that one of the Users received working on some assignment. They can make proper request on the page 'Issue" of GH for further solution.
 b. What is a _pull request_?
